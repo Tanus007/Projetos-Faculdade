@@ -1,0 +1,28 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "Back-end da tela de cadastro ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunderH11/Back-end-NODE.git"
+  },
+  "author": "Tanus Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThunderH11/Back-end-NODE/issues"
+  },
+  "homepage": "https://github.com/ThunderH11/Back-end-NODE#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

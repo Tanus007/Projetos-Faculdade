@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: VF9O_4zrpoTY
+Key alias: my-key-alias
+Key password: ypUPceMcBzus
+Signer's full name: DIN Admin
+Signer's organization: WEB-DIN
+Signer's organizational unit: Engineering
+Signer's country code: US

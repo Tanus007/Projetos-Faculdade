@@ -1,0 +1,4 @@
+ipython-autotime
+pyspark
+pymongo
+pandas

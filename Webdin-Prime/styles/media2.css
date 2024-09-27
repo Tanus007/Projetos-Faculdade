@@ -1,0 +1,49 @@
+@media screen and (max-width: 300px) {
+    header {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    #title {
+      flex-direction: row;
+      line-height: 11px;
+    }
+    
+    #title h1 {
+      font-size: 20px;
+      margin: 10px;
+    }
+    
+    main {
+      flex-direction: column;
+    }
+    
+    aside {
+      width: 100%;
+      text-align: center;
+    }
+    
+    .image-conta {
+      margin: 20px auto;
+      width: 70%;
+    }
+    
+    .image-conta img {
+      width: 100%;
+      height: auto;
+    }
+    
+    form {
+      width: 80%;
+    }
+    
+    .envi {
+      margin-top: 20px;
+      height: 40px;
+      width: 50%;
+      font-size: 18px;
+    }
+    h2 {
+        font-size: 36px;
+      }
+  }
